@@ -15,24 +15,25 @@
 
 **Assignment 1 – Object-Oriented Programming Fundamentals in Java**
 
-This repository contains my Object-Oriented Programming tutorial work completed throughout the semester. The purpose of this repository is to organize and document the Java programming exercises and projects completed from Week 1 to Week 10.
+In this repository are my tutorials which I've written during the semester in the field of Object Oriented Programming. This repository gives an organization and documentation of the java programming exercises and projects done from Week 1 to Week 10.
 
-The tutorials helped me build my understanding of Java programming and important Object-Oriented Programming concepts through practical exercises.
+The tutorials were useful in learning to build my knowledge of Java programming and key concepts of Object Oriented Programming in a hands on approach.
+
 
 ---
 
 ## Course Description
 
-Object-Oriented Programming focuses on developing software using objects and classes. Throughout this course, I learned the fundamentals of Java programming and gradually applied OOP concepts such as classes, objects, inheritance, encapsulation, polymorphism, abstraction, constructors, methods, and GUI programming.
+Object Oriented Programming is a programming approach that emphasizes the use of objects and classes to create software. In this course I learned the basics of programming the language of java and slowly started to introduce some OOP concepts like classes, objects, inheritance, encapsulation, polymorphism, abstraction, constructors, methods and GUI programming.
 
-The tutorial activities in this repository show my progress from basic Java programming to more advanced object-oriented programming tasks.
+In the tutorial activities in this repository, I demonstrate Intermediate Level Java programming to higher level object-oriented programming tasks.
 
 ---
 
 ## Repository Structure
 
 ```text
-awabali_202305010141_OOP_Tutorials/
+DELVIN-RAJ-202503010016/
 │
 ├── README.md
 ├── myreport.pdf
@@ -55,57 +56,57 @@ Each folder contains the Java source code and supporting files related to the co
 
 ### Week 1 – Java Basics
 
-The first tutorial introduced the basic structure of Java programs. The work included simple Java programs such as `HelloWorld.java` and `StudentGrade.java`.
+In the first tutorial, we introduced the basic structure of Java programs. Simple java programs like 'HelloWorld.java', 'StudentGrade.java' were created.
 
-This tutorial helped me understand basic Java syntax, program structure, variables, output statements, and simple programming logic.
+This tutorial gave me an understanding of the syntax, program structure, variables, output statements and basic logic of the Java language.
 
 ### Week 2 – Classes and Objects
 
-Week 2 introduced the basic concepts of classes and objects. The tutorial included `Main.java` and `Student.java`.
+Classes and objects were introduced in week 2. Tutorial contains Main.java and Student.java.
 
-I learned how to create a class, define attributes and methods, create objects, and use objects inside a Java program.
+I was able to learn how to declare a class, define attributes and methods, make objects, and use objects within a java program.
 
 ### Week 3–4 – Inheritance and OOP Relationships
 
-Weeks 3 and 4 focused more on Object-Oriented Programming concepts using classes such as `Person`, `Student`, and `Lecturer`.
+Weeks 3 and 4 were spent more on the concepts of Object Oriented Programming, with a focus on classes like Person, Student and Lecturer.
 
-The exercises helped me understand how classes can be related to each other and how inheritance can be used to reuse properties and methods from another class.
+The exercises helped me to comprehend the relation between classes and how the inheritance can be used to share properties and methods with another class.
 
 ### Week 5 – Object-Oriented Programming Practice
 
-Week 5 continued the practical application of OOP concepts using `Student.java` and `Main.java`, together with supporting documentation.
+In OOP, the concepts were applied in week 5, with the help of the following two files: Student.java and Main.java (and documentation).
 
-This tutorial gave me more practice with designing classes, creating objects, and organizing Java programs into separate files.
+This tutorial provided me with another chance to design classes, create objects and organise programs into separate java files.
 
 ### Week 6 – Inheritance and Class Relationships
 
-Week 6 included `Employee.java`, `Lecturer.java`, and `Main.java`.
+Week 6 have `Employee.java`, `Lecturer.java`, and `Main.java`.
 
-The tutorial provided more practice with inheritance and relationships between different classes. It helped me understand how a subclass can extend and reuse features from a parent class.
+More practice with inheritance and relationships between classes in the tutorial. It was very useful for me to know how to extend and re-use features of a parent class.
 
 ### Week 7 – Abstraction and Polymorphism
 
-Week 7 focused on object-oriented design using appliance-related classes such as `appllances`, `Microwave`, and `WashingMachine`.
+Week 7 si into object-oriented design using appliance-related classes such as `appllances`, `Microwave`, and `WashingMachine`.
 
-Through these classes, I practiced working with common parent classes and different child classes, which improved my understanding of abstraction and polymorphism.
+In these classes, I learnt how to use common parent class and different child classes and it helped me to get a better understanding of abstraction and polymorphism.
 
 ### Week 8–9 – Java Programming Practice
 
-Weeks 8 and 9 contained additional Java programming exercises and tasks using `Main.java`.
+The more Java programming assignments were completed during weeks 8 and 9 of the course.
 
-These activities helped reinforce the concepts learned in the previous tutorials and gave me more practice in writing, testing, and debugging Java programs.
+These activities helped to reinforce the concepts that were covered in the previous tutorials and also provided extra practice in the skills of writing, testing and debugging Java programs.
 
 ### Week 10 – GUI Programming
 
-Week 10 introduced Java GUI programming through `Questions.java` and `QuizBattleGUI.java`.
+Week 10 covered Java GUI programming with the creation of `Questions.java` and `QuizBattleGUI.java`.
 
-This tutorial allowed me to apply Java programming concepts to a graphical user interface and understand how buttons, questions, and user interactions can be handled in a Java application.
+Through this tutorial, I gained experience with how to use Java programming concepts within the graphical user interface of the application.
 
 ---
 
 ## Technologies Used
 
-The main technologies and tools used in this repository are:
+The important technologies & tools used in this repository are:
 
 * **Java**
 * **Java Object-Oriented Programming**
@@ -117,7 +118,7 @@ The main technologies and tools used in this repository are:
 
 ## OOP Concepts Practiced
 
-Throughout the tutorials, I practiced several important Object-Oriented Programming concepts, including:
+Throughout the tutorials, I've practiced some important Object-Oriented Programming concepts, including:
 
 * Classes and Objects
 * Attributes and Methods
@@ -140,8 +141,8 @@ These concepts were gradually introduced and practiced through different tutoria
 
 1. Download or clone this repository.
 2. Open the required week folder.
-3. Open the Java files using a Java-supported IDE such as IntelliJ IDEA, Eclipse, or NetBeans.
-4. Make sure all required Java files for the selected tutorial are in the same project.
+3. To open the Java files, you can use a Java-supported IDE like IntelliJ IDEA, Eclipse or NetBeans.
+4. Ensure that all required Java files for the selected tutorial are within the same project.
 5. Run the file containing the `main()` method.
 
 ### Option 2 – Using the Command Line
@@ -171,11 +172,11 @@ The exact files required may differ depending on the tutorial.
 
 ## Reflection Summary
 
-Completing these tutorials helped me improve my Java programming skills and gave me a better understanding of Object-Oriented Programming. At the beginning, I mainly focused on understanding basic Java syntax and simple programs. As the tutorials progressed, I became more comfortable creating classes and objects and working with relationships between different classes.
+By completing these tutorials, I improved my Java programming skills as well as gained a better understanding of Object-Oriented Programming (OOP). The tutorials started with the basics of Java and then progressed to topics like classes and objects.
 
-One of the challenges I faced was understanding how different OOP concepts work together, especially inheritance, polymorphism, and class relationships. I overcame these difficulties by practicing the examples, testing my code, and fixing errors when the programs did not work as expected.
+One of the challenges I faced was understanding the concepts of object-oriented programming (OOP) and how they relate to each other. I overcame these challenges through practice with the examples in the text, testing the code I wrote for errors and correcting those errors when the programs did not run as expected.
 
-Using GitHub also helped me understand the importance of organizing programming work and keeping different tutorial activities in separate folders. Overall, the tutorials improved my confidence in Java and gave me a stronger foundation for developing larger object-oriented applications.
+The use of GitHub also allowed me to understand the importance of organization within the programming world. The tutorials provided me with the knowledge to feel confident about my Java skills, as well as to develop larger object-oriented applications.
 
 ---
 
@@ -187,13 +188,13 @@ A detailed self-reflective report is included in this repository as:
 myreport.pdf
 ```
 
-The report discusses my learning experience, challenges encountered, solutions, improvements in Java programming, understanding of OOP concepts, and future learning plans.
+The report will discuss my learning experience of Java programming, the challenges that I encountered during my learning process, the solutions to these challenges, the improvements in my Java programming skills, the understanding of Object-Oriented Programming (OOP) concepts and the plans that I have for future learning.
 
 ---
 
 ## GitHub Repository
 
-**Repository:** awabali_202305010141_OOP_Tutorials
+**Repository:** DELVIN-RAJ-202503010016
 
 The complete source code and supporting files for this assignment are available in the GitHub repository.
 
@@ -201,6 +202,6 @@ The complete source code and supporting files for this assignment are available 
 
 ## Conclusion
 
-This repository represents my learning progress in Object-Oriented Programming using Java throughout the semester. The tutorials allowed me to move from basic Java programming to more advanced OOP concepts and GUI development.
+This repository represents the progression of my learning about object-oriented programming using Java throughout the semester. The tutorials that I completed helped me to learn the basics of Java programming as well as some of the more advanced concepts within object-oriented programming and even how to create graphical user interfaces for applications written in Java.
 
-Organizing the work in GitHub also gave me practical experience with version control, repository organization, documentation, and maintaining programming projects in a structured way.
+Working on the project within GitHub provided me with the opportunity to gain experience with organizing code within a repository, creating documentation for that code and managing various versions of the codebase.
